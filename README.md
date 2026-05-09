@@ -1,36 +1,105 @@
-<h1 align="center">Hi 👋, I'm Kartik Hadiya</h1>
-<h3 align="center">A Passionate Android Developer in Flutter From India</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<div align="center">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=durgesh005&label=Profile%20views&color=0e75b6&style=flat" alt="durgesh005" /> </p>
+<!-- Typing SVG Header -->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&pause=1000&color=0077B6&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Kartik+Hadiya;Flutter+%26+Dart+Developer+%F0%9F%9A%80;Building+Beautiful+Mobile+Apps+%F0%9F%93%B1;Let's+Do+Some+Code+%E2%9A%A1)](https://git.io/typing-svg)
 
-- 🌱 I’m   **Flutter** developer
+<img src="https://komarev.com/ghpvc/?username=kartikhadiya09&label=Profile+Views&color=0077b6&style=for-the-badge" alt="Profile Views" />
+&nbsp;
+<img src="https://img.shields.io/github/followers/kartikhadiya09?label=Followers&style=for-the-badge&color=0077b6&labelColor=555555" alt="GitHub followers" />
 
-- 💬 Ask me about **Flutter**
+</div>
 
-- 📫 How to reach me **mr.nobby009@gmail.com**
+---
 
-- ⚡ Fun fact **Let's Do Some Code**
+## 👨‍💻 About Me
 
+```yaml
+name: Kartik Hadiya
+location: India 🇮🇳
+role: Flutter Developer
+focus: Building beautiful cross-platform mobile apps
+email: mr.kartikhadiya1617@gmail.com
+fun_fact: "Let's Do Some Code ⚡"
+```
 
-<p align="left">
-</p>
+<img align="right" alt="Coding GIF" width="380" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
 
+- 🌱 Currently mastering **Flutter & Dart**
+- 💡 Passionate about **clean UI/UX** in mobile apps
+- 🛠️ Experienced with **C, C++, Dart, Flutter**
+- 📫 Reach me at **mr.kartikhadiya1617@gmail.com**
+- ⚡ Fun fact: **Let's Do Some Code!**
 
-   <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> </p>
+<br clear="right"/>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/kartik hadiya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kartik hadiya" height="30" width="40" /></a>
-<a href="https://instagram.com/mr.kartus_282" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mr.nobby_09" height="30" width="40" /></a>
-</p>
+---
 
+## 🛠️ Languages & Tools
 
- 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kartikhadiya09&show_icons=true&locale=en&layout=compact" alt="kartikhadiya09" /></p>
+<div align="center">
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kartikhadiya09&show_icons=true&locale=en" alt="kartikhadiya09" /></p>
+[![My Skills](https://skillicons.dev/icons?i=flutter,dart,cpp,c,androidstudio,vscode,git,github&theme=light)](https://skillicons.dev)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kartikhadiya09&" alt="kartikhadiya09" /></p>
-  
+</div>
+
+---
+
+## 🌐 Connect With Me
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Kartik_Hadiya-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/kartikhadiya)
+&nbsp;
+[![Instagram](https://img.shields.io/badge/Instagram-@mr.kartus__282-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/mr.kartus_282)
+&nbsp;
+[![Gmail](https://img.shields.io/badge/Gmail-mr.kartikhadiya1617-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mr.kartikhadiya1617@gmail.com)
+
+</div>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=kartikhadiya09&show_icons=true&theme=default&hide_border=true&title_color=0077B6&icon_color=0077B6" height="180" alt="GitHub Stats"/>
+&nbsp;&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kartikhadiya09&layout=compact&theme=default&hide_border=true&title_color=0077B6" height="180" alt="Top Languages"/>
+
+</div>
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=kartikhadiya09&theme=default&hide_border=true&ring=0077B6&fire=F77F00&currStreakLabel=0077B6" alt="GitHub Streak" width="500"/>
+
+</div>
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=kartikhadiya09&theme=flat&no-frame=true&column=6&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
+
+</div>
+
+---
+
+## 📈 Contribution Graph
+
+<div align="center">
+
+[![Kartik's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=kartikhadiya09&theme=minimal&hide_border=true&color=0077B6&line=0077B6&point=F77F00)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+</div>
+
+---
+
+<div align="center">
+
+### 💬 "Code is like humor. When you have to explain it, it's bad." – Cory House
+
+⭐ **If you like my work, consider starring some of my repos!** ⭐
+
+</div>
