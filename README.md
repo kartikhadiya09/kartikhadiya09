@@ -50,7 +50,7 @@ fun_fact: "Let's Do Some Code ⚡"
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Kartik_Hadiya-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/kartikhadiya)
 &nbsp;
-[![Instagram](https://img.shields.io/badge/Instagram-@mr.kartus__282-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/mr.kartus_282)
+[![Instagram](https://img.shields.io/badge/Instagram-@mr.kartus__282-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/mr.kartus_292)
 &nbsp;
 [![Gmail](https://img.shields.io/badge/Gmail-mr.kartikhadiya1617-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mr.kartikhadiya1617@gmail.com)
 
